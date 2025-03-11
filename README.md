@@ -22,3 +22,11 @@ Xcursor.size: 32
 ```
 
 > The cursor name is configured on `./3d_golden_windows_xp/cursor.theme`, and this cursor has e different sizes, 24, 32 and 48.
+
+## Resources
+
+I created this theme using these Windows XP cursor files uploaded by `nibbler` [here](http://www.rw-designer.com/cursor-set/windows-xp-1).
+
+For generating the cursor theme, I used this [repo](https://github.com/carloseabade/cursor-toolbox).
+
+For getting the frames from the animated cursors, I used this [repo](https://github.com/carloseabade/ani_file)
